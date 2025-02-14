@@ -13,3 +13,7 @@
 - ## Project Title
 
 - *Hello World Sample*
+
+- ## Description
+
+- *This is my first repository on GitHub*
