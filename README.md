@@ -17,6 +17,7 @@
 
 ### About me
 - *I am a third-year student at the University of Iowa studying Finance and Business Analytics, with a strong passion in data and the fields that surround it.*
+![Alt Text](Resume Photo.jpg)
 
 #### Files Used
-
+Resume Photo.jpg
