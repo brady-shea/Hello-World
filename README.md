@@ -6,17 +6,17 @@
 - [DESCRIPTION](#Description)
 - [ABOUT ME](#About-me)
 - [FILES USED](Files-used)
-- [ADDITIONAL DOCUMENTATION](additional-documentation)
-- [VERSIONING](versioning)
-- [NEW TITLE](New-title)
 
-## Project Title
+# Project Title
 
-- *Hello World Sample*
+- *Hello World*
 
 ## Description
 
-- *This is my first repository on GitHub*
+***This is my first repository on GitHub***
 
-## About me
-- 
+### About me
+- *I am a third-year student at the University of Iowa studying Finance and Business Analytics, with a strong passion in data and the fields that surround it.*
+
+#### Files Used
+
