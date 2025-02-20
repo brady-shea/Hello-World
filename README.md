@@ -1,13 +1,13 @@
 
 
-## Table of contents
+# Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [ABOUT ME](#About-me)
 - [FILES USED](Files-used)
 
-# *****Hello World*****
+## *****Hello World*****
 
 - *Brady Shea*
 
@@ -15,11 +15,14 @@
 
 ***This is my first repository on GitHub***
 
-### About me
+## About me
 - *I am a third-year student at the University of Iowa studying Finance and Business Analytics, with a strong passion in data and the fields that surround it.*
 
 
 ![My Picture](Resume-Photo.jpg)
 
-#### Files Used
+## Files Used
 Resume-Photo.jpg
+
+## Additional Documentation
+**No additional documentation at this time**
